@@ -1,7 +1,7 @@
 {
     "type": "Topology",
     "objects": {
-        "test": {
+        "esp": {
             "type": "GeometryCollection",
             "geometries": [
                 {
