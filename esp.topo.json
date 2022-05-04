@@ -48,7 +48,7 @@
                     "properties": {
                         "name": "Álava"
                     },
-                    "id": "PV",
+                    "id": ".PV",
                     "arcs": [
                         [
                             6,
@@ -67,7 +67,7 @@
                     "properties": {
                         "name": "Albacete"
                     },
-                    "id": "CM",
+                    "id": ".CM",
                     "arcs": [
                         [
                             12,
@@ -85,7 +85,7 @@
                     "properties": {
                         "name": "Alicante"
                     },
-                    "id": "VC",
+                    "id": ".VC",
                     "arcs": [
                         [
                             19,
@@ -100,7 +100,7 @@
                     "properties": {
                         "name": "Almería"
                     },
-                    "id": "AN",
+                    "id": ".AN",
                     "arcs": [
                         [
                             22,
@@ -114,7 +114,7 @@
                     "properties": {
                         "name": "Asturias"
                     },
-                    "id": "AS",
+                    "id": ".AS",
                     "arcs": [
                         [
                             25,
@@ -129,7 +129,7 @@
                     "properties": {
                         "name": "Ávila"
                     },
-                    "id": "CL",
+                    "id": ".CL",
                     "arcs": [
                         [
                             29,
@@ -148,7 +148,7 @@
                     "properties": {
                         "name": "Badajoz"
                     },
-                    "id": "EX",
+                    "id": ".EX",
                     "arcs": [
                         [
                             37,
@@ -167,7 +167,7 @@
                     "properties": {
                         "name": "Baleares"
                     },
-                    "id": "PM",
+                    "id": ".PM",
                     "arcs": [
                         [
                             [
@@ -201,7 +201,7 @@
                     "properties": {
                         "name": "Barcelona"
                     },
-                    "id": "CT",
+                    "id": ".CT",
                     "arcs": [
                         [
                             50,
@@ -216,7 +216,7 @@
                     "properties": {
                         "name": "Burgos"
                     },
-                    "id": "CL",
+                    "id": ".CL",
                     "arcs": [
                         [
                             [
@@ -245,7 +245,7 @@
                     "properties": {
                         "name": "Cáceres"
                     },
-                    "id": "EX",
+                    "id": ".EX",
                     "arcs": [
                         [
                             -35,
@@ -261,7 +261,7 @@
                     "properties": {
                         "name": "Cádiz"
                     },
-                    "id": "AN",
+                    "id": ".AN",
                     "arcs": [
                         [
                             65,
@@ -275,7 +275,7 @@
                     "properties": {
                         "name": "Cantabria"
                     },
-                    "id": "CB",
+                    "id": ".CB",
                     "arcs": [
                         [
                             [
@@ -299,7 +299,7 @@
                     "properties": {
                         "name": "Castellón"
                     },
-                    "id": "VC",
+                    "id": ".VC",
                     "arcs": [
                         [
                             73,
@@ -314,7 +314,7 @@
                     "properties": {
                         "name": "Ceuta"
                     },
-                    "id": "CE",
+                    "id": ".CE",
                     "arcs": [
                         [
                             77
@@ -326,7 +326,7 @@
                     "properties": {
                         "name": "Ciudad Real"
                     },
-                    "id": "CM",
+                    "id": ".CM",
                     "arcs": [
                         [
                             [
@@ -351,7 +351,7 @@
                     "properties": {
                         "name": "Córdoba"
                     },
-                    "id": "AN",
+                    "id": ".AN",
                     "arcs": [
                         [
                             83,
@@ -368,7 +368,7 @@
                     "properties": {
                         "name": "Cuenca"
                     },
-                    "id": "CM",
+                    "id": ".CM",
                     "arcs": [
                         [
                             87,
@@ -388,7 +388,7 @@
                     "properties": {
                         "name": "Gerona"
                     },
-                    "id": "CT",
+                    "id": ".CT",
                     "arcs": [
                         [
                             [
@@ -409,7 +409,7 @@
                     "properties": {
                         "name": "Granada"
                     },
-                    "id": "AN",
+                    "id": ".AN",
                     "arcs": [
                         [
                             97,
@@ -427,7 +427,7 @@
                     "properties": {
                         "name": "Guadalajara"
                     },
-                    "id": "CM",
+                    "id": ".CM",
                     "arcs": [
                         [
                             101,
@@ -444,7 +444,7 @@
                     "properties": {
                         "name": "Gipuzkoa"
                     },
-                    "id": "PV",
+                    "id": ".PV",
                     "arcs": [
                         [
                             106,
@@ -459,7 +459,7 @@
                     "properties": {
                         "name": "Huelva"
                     },
-                    "id": "AN",
+                    "id": ".AN",
                     "arcs": [
                         [
                             109,
@@ -473,7 +473,7 @@
                     "properties": {
                         "name": "Huesca"
                     },
-                    "id": "AR",
+                    "id": ".AR",
                     "arcs": [
                         [
                             111,
@@ -488,7 +488,7 @@
                     "properties": {
                         "name": "Jaén"
                     },
-                    "id": "AN",
+                    "id": ".AN",
                     "arcs": [
                         [
                             -101,
@@ -503,7 +503,7 @@
                     "properties": {
                         "name": "La Coruña"
                     },
-                    "id": "GA",
+                    "id": ".GA",
                     "arcs": [
                         [
                             115,
@@ -517,7 +517,7 @@
                     "properties": {
                         "name": "La Rioja"
                     },
-                    "id": "LO",
+                    "id": ".LO",
                     "arcs": [
                         [
                             118,
@@ -533,7 +533,7 @@
                     "properties": {
                         "name": "Las Palmas"
                     },
-                    "id": "CN",
+                    "id": ".CN",
                     "arcs": [
                         [
                             [
@@ -562,7 +562,7 @@
                     "properties": {
                         "name": "León"
                     },
-                    "id": "CL",
+                    "id": ".CL",
                     "arcs": [
                         [
                             -72,
@@ -585,7 +585,7 @@
                     "properties": {
                         "name": "Lérida"
                     },
-                    "id": "CT",
+                    "id": ".CT",
                     "arcs": [
                         [
                             -96,
@@ -602,7 +602,7 @@
                     "properties": {
                         "name": "Lugo"
                     },
-                    "id": "GA",
+                    "id": ".GA",
                     "arcs": [
                         [
                             -28,
@@ -619,7 +619,7 @@
                     "properties": {
                         "name": "Madrid"
                     },
-                    "id": "MD",
+                    "id": ".MD",
                     "arcs": [
                         [
                             [
@@ -643,7 +643,7 @@
                     "properties": {
                         "name": "Málaga"
                     },
-                    "id": "AN",
+                    "id": ".AN",
                     "arcs": [
                         [
                             -100,
@@ -659,7 +659,7 @@
                     "properties": {
                         "name": "Melilla"
                     },
-                    "id": "CE",
+                    "id": ".CE",
                     "arcs": [
                         [
                             144
@@ -671,7 +671,7 @@
                     "properties": {
                         "name": "Murcia"
                     },
-                    "id": "MU",
+                    "id": ".MU",
                     "arcs": [
                         [
                             [
@@ -694,7 +694,7 @@
                     "properties": {
                         "name": "Navarra"
                     },
-                    "id": "NA",
+                    "id": ".NA",
                     "arcs": [
                         [
                             [
@@ -723,7 +723,7 @@
                     "properties": {
                         "name": "Orense"
                     },
-                    "id": "GA",
+                    "id": ".GA",
                     "arcs": [
                         [
                             -131,
@@ -739,7 +739,7 @@
                     "properties": {
                         "name": "Palencia"
                     },
-                    "id": "CL",
+                    "id": ".CL",
                     "arcs": [
                         [
                             [
@@ -761,7 +761,7 @@
                     "properties": {
                         "name": "Pontevedra"
                     },
-                    "id": "GA",
+                    "id": ".GA",
                     "arcs": [
                         [
                             -138,
@@ -776,7 +776,7 @@
                     "properties": {
                         "name": "Salamanca"
                     },
-                    "id": "CL",
+                    "id": ".CL",
                     "arcs": [
                         [
                             156,
@@ -792,7 +792,7 @@
                     "properties": {
                         "name": "Santa Cruz de Tenerife"
                     },
-                    "id": "CN",
+                    "id": ".CN",
                     "arcs": [
                         [
                             [
@@ -821,7 +821,7 @@
                     "properties": {
                         "name": "Segovia"
                     },
-                    "id": "CL",
+                    "id": ".CL",
                     "arcs": [
                         [
                             163,
@@ -840,7 +840,7 @@
                     "properties": {
                         "name": "Sevilla"
                     },
-                    "id": "AN",
+                    "id": ".AN",
                     "arcs": [
                         [
                             -87,
@@ -857,7 +857,7 @@
                     "properties": {
                         "name": "Soria"
                     },
-                    "id": "CL",
+                    "id": ".CL",
                     "arcs": [
                         [
                             166,
@@ -873,7 +873,7 @@
                     "properties": {
                         "name": "Tarragona"
                     },
-                    "id": "CT",
+                    "id": ".CT",
                     "arcs": [
                         [
                             167,
@@ -890,7 +890,7 @@
                     "properties": {
                         "name": "Teruel"
                     },
-                    "id": "AR",
+                    "id": ".AR",
                     "arcs": [
                         [
                             -169,
@@ -909,7 +909,7 @@
                     "properties": {
                         "name": "Toledo"
                     },
-                    "id": "CM",
+                    "id": ".CM",
                     "arcs": [
                         [
                             -92,
@@ -927,7 +927,7 @@
                     "properties": {
                         "name": "Valencia"
                     },
-                    "id": "VC",
+                    "id": ".VC",
                     "arcs": [
                         [
                             [
@@ -952,7 +952,7 @@
                     "properties": {
                         "name": "Valladolid"
                     },
-                    "id": "CL",
+                    "id": ".CL",
                     "arcs": [
                         [
                             [
@@ -983,7 +983,7 @@
                     "properties": {
                         "name": "Bizkaia"
                     },
-                    "id": "PV",
+                    "id": ".PV",
                     "arcs": [
                         [
                             -108,
@@ -1002,7 +1002,7 @@
                     "properties": {
                         "name": "Zamora"
                     },
-                    "id": "CL",
+                    "id": ".CL",
                     "arcs": [
                         [
                             -175,
@@ -1020,7 +1020,7 @@
                     "properties": {
                         "name": "Zaragoza"
                     },
-                    "id": "AR",
+                    "id": ".AR",
                     "arcs": [
                         [
                             -135,
